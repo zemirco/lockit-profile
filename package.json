@@ -1,0 +1,24 @@
+{
+  "name": "lockit-profile",
+  "version": "0.0.1",
+  "description": "profile view for lockit",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+    "lockit",
+    "profile"
+  ],
+  "author": "Mirco Zeiss",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "~2.4.0",
+    "lockit-utils": "~0.0.2"
+  },
+  "devDependencies": {
+    "grunt-mocha-test": "~0.8.1",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt": "~0.4.2"
+  }
+}
